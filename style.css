@@ -1,0 +1,59 @@
+ul{
+    margin-left: 50px;
+}
+
+table {
+    border-collapse: collapse;
+    
+  }
+
+h1{
+        color: rgb(43, 43, 53); /* colore del testo */
+        font-size: 36px; /* dimensione del testo */
+        font-family: Arial BLACK, sans-serif; /* tipo di carattere preso dal sito dei caratteri, posso usare direttamente i nomi */
+        text-align: center; /* allineamento del testo */
+        background-color: #f1f1f1; /* colore di sfondo */
+        padding: 10px; /* grandezza dello sfondo di sopra f1f1f1 */
+}
+
+h5{
+    font-size: 25px;
+    margin-top: 10px;
+}
+
+#ColonnaDestra_AltoDestra{
+    background-color: rgb(68, 68, 68); 
+    width: 200%;
+    font-size: 65px;
+    color: white;
+    font-family: Arial, sans-serif;
+}
+  
+  #ColonnaDestra_AltoDestra span {
+    font-size: 40px; /* grandezza del testo faccio cose a caso */
+    color: white; /* colore bianco del testo */
+    font-style: italic; /* stile del testo */
+  }
+
+  img{
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px rgb(68, 68, 68);
+    max-width: 100%;
+  }
+
+  .Contatti2{
+    margin-left: 85px;
+    margin-top: 10px;
+    font-size: 26px;
+  }
+
+  .StudiCorsi{
+    margin-left: 85px;
+    margin-bottom: -10px;
+    font-size: 23px;
+  }
+
+  .social-links {
+    margin-left: 40px;
+    font-size: 40px;
+  }  
